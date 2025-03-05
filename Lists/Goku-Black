@@ -1,5 +1,8 @@
 return 
 {
-  { name = "Wukong", nickname = "Oozaru", requiredValue = 50000000000 },
-  { name = "Wukong Black", nickname = "Wukong Black", requiredValue = 150000000000, questless = true}
+  ["Earth"] = 
+  {
+    { name = "Wukong", nickname = "Oozaru", requiredValue = 50000000000 },
+    { name = "Wukong Black", nickname = "Wukong Black", requiredValue = 150000000000, questless = true}
+  }
 }
