@@ -1,5 +1,5 @@
 return 
 {
   { name = "Kid Nohag", nickname = "Oozaru", requiredValue = 50000000000 },
-  { name = "Goku Black", nickname = "Goku Black", requiredValue = 150000000000, questless = true}
+  { name = "Wukong Black", nickname = "Goku Black", requiredValue = 150000000000, questless = true}
 }
