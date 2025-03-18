@@ -1,0 +1,34 @@
+return {
+  ["Earth"] = 
+  {
+    { name = "X Fighter Trainer", nickname = "X Fighter", requiredValue = 0 }, 
+    { name = "Klirin", nickname = "Klirin", requiredValue = 6251}, 
+    --{ name = "Kid Nohag", nickname = "Kid Nohag", requiredValue = 12501}, 
+    { name = "Turtle Student", nickname = "Turtle Student", requiredValue = 15000}, 
+    { name = "Radish", nickname = "Radish", requiredValue = 23751}, 
+    { name = "Mapa", nickname = "Mapa", requiredValue = 50000}, 
+    { name = "Top X Fighter", nickname = "X Fighter Master", requiredValue = 112501}, 
+    { name = "Super Vegetable", nickname = "Super Vegetable", requiredValue = 187501}, 
+    { name = "Chilly", nickname = "Chilly", requiredValue = 550001}, 
+    { name = "Perfect Atom", nickname = "Perfect Atom", requiredValue = 875001},
+    { name = "SSJ2 Wukong", nickname = "SSJ2 Wukong", requiredValue = 1250001}, 
+    { name = "SSJB Wukong", nickname = "SSJB Wukong", requiredValue = 2000001}, 
+    { name = "Broccoli", nickname = "Broccoli", requiredValue = 12500001}, 
+    -- { name = "Halloween NPC", nickname = "Halloween Boss", requiredValue = 4000001 , questless = true},
+    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 37500000},
+    { name = "Winter Wukong", nickname = "Winter Wukong", requiredValue = 56250001},
+  },
+["Vills Planet"] =
+  {
+    { name = "Vegetable (GoD in-training)", nickname = "Vegetable (GoD in-training)", requiredValue = 50000000}, 
+    { name = "Wukong (Omen)", nickname = "Wukong (Omen)", requiredValue = 75000000}, 
+    { name = "Vills (50%)", nickname = "Vills (50%)", requiredValue = 150000000}, 
+    { name = "Vis (20%)", nickname = "Vis (20%)", requiredValue = 250000000},
+    { name = "Vegetable (LBSSJ4)", nickname = "Vegetable (LBSSJ4)", requiredValue = 450000000},
+    { name = "Wukong (LBSSJ4)", nickname = "Wukong (LBSSJ4)", requiredValue = 675000000},
+    { name = "Vekuta (LBSSJ4)", nickname = "Vekuta (LBSSJ4)", requiredValue = 1050000000},
+    { name = "Wukong Rose", nickname = "Wukong Rose", requiredValue = 1250000000},
+    { name = "Vekuta (SSJBUI)", nickname = "Vekuta (SSJBUI)", requiredValue = 1375000000},
+    { name = "Winter Bills", nickname = "Winter Bills", requiredValue = 1710000000},
+  }
+}
