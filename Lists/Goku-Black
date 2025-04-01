@@ -2,7 +2,8 @@ return
 {
   ["Earth"] = 
   {
+    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 60000000},
     { name = "Wukong", nickname = "Oozaru", requiredValue = 50000000000 },
-    { name = "Wukong Black", nickname = "Wukong Black", requiredValue = 150000000000, questless = true}
+    { name = "Wukong Black", nickname = "Wukong Black", requiredValue = 50000000001, questless = true}
   }
 }
