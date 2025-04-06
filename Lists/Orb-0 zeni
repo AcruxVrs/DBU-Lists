@@ -16,7 +16,7 @@ return {
     { name = "SSJB Wukong", nickname = "SSJB Wukong", requiredValue = 8000001}, 
     { name = "Broccoli", nickname = "Broccoli", requiredValue = 85500001}, 
     -- { name = "Halloween NPC", nickname = "Halloween Boss", requiredValue = 4000001 , questless = true},
-    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 60000000},
+    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 90000000},
   },
 ["Vills Planet"] =
   {
