@@ -32,7 +32,7 @@ return {
     { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (GoD in-training)", requiredValue = 600000000000 },
     { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 2400000000000 },
     { name = "Vills (True God of Destruction)", nickname = "True GoD Vills", requiredValue = 10000000000000 },
-    { name = "Vis (Ultra Instinct)", nickname = "Ultra Instinct Vis", requiredValue = 60000000000000 },
+    { name = "Vis (Ultra Instinct)", nickname = "Vis (Ultra Instinct)", requiredValue = 60000000000000 },
     { name = "Xicor", nickname = "Xicor", requiredValue = 400000000000000 },
     { name = "Wukong (SSJB3)", nickname = "Wukong (SSJB3)", requiredValue = 1400000000000000 },
     { name = "Kakata (Ego Instinct)", nickname = "Kakata (Ego Instinct)", requiredValue = 8000000000000000 }
