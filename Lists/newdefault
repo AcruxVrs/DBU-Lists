@@ -26,7 +26,6 @@ return {
   ["Vills Planet"] =
   {
     { name = "Vis (Vills Planet)", nickname = "Vis (Vills Planet)", requiredValue = 140000000000 }, 
-    { name = "Kito", nickname = "Kito", requiredValue = 0 },
     { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 1200000000000 },
     { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (GoD in-training)", requiredValue = 6000000000000 },
     { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 50000000000000 },
