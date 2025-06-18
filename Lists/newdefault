@@ -18,22 +18,21 @@ return {
     { name = "Super Boo", nickname = "Super Boo", requiredValue = 150000000 },
     { name = "Kakata(SSJ)", nickname = "Kakata(SSJ)", requiredValue = 300000000 }, 
     { name = "Vills (1%)", nickname = "Vills (1%)", requiredValue = 500000000 }, 
-    { name = "Omega Shenlong", nickname = "Omega Shenlong", requiredValue = 750000000000 }, 
     { name = "Gold Chilly", nickname = "Gold Chilly", requiredValue = 750000000 },
     { name = "Merged Zamas", nickname = "Merged Zamas", requiredValue = 1000000000 },
     { name = "Broccoli", nickname = "Broccoli", requiredValue = 1500000000 },
+    { name = "Omega Shenlong", nickname = "Omega Shenlong", requiredValue = 750000000000 } 
   },
 
   ["Vills Planet"] =
   {
-    { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (Ultra Ego)", requiredValue = 813000000 }, 
-    { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 1200000000 },
-    --{ name = "Vegetable (Ultra Ego)", nickname = "Vegetable (GoD in-training)", requiredValue = 3250000000 },
-    { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 5000000000 },
-    { name = "Vills (True God of Destruction)", nickname = "Vills (True God of Destruction)", requiredValue = 11250000000 },
+    { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 1260000000 },
+    { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (Ultra Ego)", requiredValue = 8500000000 },
+    { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 15000000000 },
+    { name = "Vills (True God of Destruction)", nickname = "Vills (True God of Destruction)", requiredValue = 30000000000 },
     { name = "Vis (Ultra Instinct)", nickname = "Vis (Ultra Instinct)", requiredValue = 45000000000 },
-    { name = "Xicor", nickname = "Xicor", requiredValue = 95000000000 },
-    { name = "Wukong (SSJB3)", nickname = "Wukong (SSJB3)", requiredValue = 125000000000 },
+    { name = "Xicor", nickname = "Xicor", requiredValue = 75000000000 },
+    { name = "Wukong (SSJB3)", nickname = "Wukong (SSJB3)", requiredValue = 100000000000 },
     { name = "Kakata (Ego Instinct)", nickname = "Kakata (Ego Instinct)", requiredValue = 200000000000 }
   } 
 }
