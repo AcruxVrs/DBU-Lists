@@ -1,6 +1,6 @@
 return {
-  ["Earth"] = 
-  {
+  ["Earth"] = {
+    { name = "Kito", nickname = "Kito", requiredValue = 0 },
     { name = "X Fighter Trainer", nickname = "X Fighter", requiredValue = 0 }, 
     { name = "Turtle Student", nickname = "Turtle Student", requiredValue = 500 }, 
     { name = "Klirin", nickname = "Klirin", requiredValue = 50000 }, 
@@ -21,18 +21,22 @@ return {
     { name = "Gold Chilly", nickname = "Gold Chilly", requiredValue = 750000000 },
     { name = "Merged Zamas", nickname = "Merged Zamas", requiredValue = 1000000000 },
     { name = "Broccoli", nickname = "Broccoli", requiredValue = 1500000000 },
-    { name = "Omega Shenlong", nickname = "Omega Shenlong", requiredValue = 750000000000 } 
+    { name = "Vis (Vills Planet)", nickname = "Vis (Vills Planet)", requiredValue = 5000000000 }
   },
 
-  ["Vills Planet"] =
-  {
-    { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 1260000000 },
+  ["Vills Planet"] = {
     { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (Ultra Ego)", requiredValue = 8500000000 },
+    { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 5000000000 },
     { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 15000000000 },
     { name = "Vills (True God of Destruction)", nickname = "Vills (True God of Destruction)", requiredValue = 30000000000 },
     { name = "Vis (Ultra Instinct)", nickname = "Vis (Ultra Instinct)", requiredValue = 45000000000 },
     { name = "Xicor", nickname = "Xicor", requiredValue = 75000000000 },
     { name = "Wukong (SSJB3)", nickname = "Wukong (SSJB3)", requiredValue = 100000000000 },
-    { name = "Kakata (Ego Instinct)", nickname = "Kakata (Ego Instinct)", requiredValue = 200000000000 }
-  } 
+    { name = "Kakata (Ego Instinct)", nickname = "Kakata (Ego Instinct)", requiredValue = 200000000000 },
+    { name = "Wukong True God", nickname = "Wukong True God", requiredValue = 365000000000 },
+    { name = "Ego Instinct Kakata (Buu absorbed)", nickname = "Ego Instinct Kakata (Buu absorbed)", requiredValue = 1500000000000 },
+    { name = "Wukong Seraphim", nickname = "Wukong Seraphim", requiredValue = 4500000000000 },
+    { name = "Seraphim of Destruction Vegetable", nickname = "Seraphim of Destruction Vegetable", requiredValue = 8750000000000 },
+    { name = "Ultra Vekuta", nickname = "Ultra Vekuta", requiredValue = 17500000000000 }
+  }
 }
