@@ -23,8 +23,8 @@ return {
   },
 
   ["Vills Planet"] = {
+{ name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 5000000000 },
     { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (Ultra Ego)", requiredValue = 8500000000 },
-    { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 5000000000 },
     { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 15000000000 },
     { name = "Vills (True God of Destruction)", nickname = "Vills (True God of Destruction)", requiredValue = 30000000000 },
     { name = "Vis (Ultra Instinct)", nickname = "Vis (Ultra Instinct)", requiredValue = 45000000000 },
