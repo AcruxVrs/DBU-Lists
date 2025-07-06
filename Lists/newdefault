@@ -2,28 +2,29 @@ return {
   ["Earth"] = {
     { name = "X Fighter Trainer", nickname = "X Fighter", requiredValue = 0 }, 
     { name = "Turtle Student", nickname = "Turtle Student", requiredValue = 500 }, 
-    { name = "Klirin", nickname = "Klirin", requiredValue = 50000 }, 
-    { name = "Roshi", nickname = "Roshi", requiredValue = 150000 },
-    { name = "Kid Nohag", nickname = "Kid Nohag", requiredValue = 300000 }, 
-    { name = "Radish", nickname = "Radish", requiredValue = 800000 }, 
-    { name = "Mapa", nickname = "Mapa", requiredValue = 1200000 }, 
-    { name = "Vegetable (Saya Saga)", nickname = "Super Vegetable", requiredValue = 1900000 },
-    { name = "Lord Sloog", nickname = "Lord Sloog", requiredValue = 2800000 },
-    { name = "Citizen", nickname = "Ancient Saya", requiredValue = 3500000 }, 
-    { name = "Chilly", nickname = "Chilly", requiredValue = 5000000 }, 
-    { name = "No. 17", nickname = "No. 17", requiredValue = 15000000 },
-    { name = "Perfect Atom", nickname = "Perfect Atom", requiredValue = 30000000 },
-    { name = "Z Broccoli", nickname = "Z Broccoli", requiredValue = 75000000 },
+    { name = "Klirin", nickname = "Klirin", requiredValue = 58750 }, 
+    { name = "Roshi", nickname = "Roshi", requiredValue = 176250 },
+    { name = "Kid Nohag", nickname = "Kid Nohag", requiredValue = 352500 }, 
+    { name = "Radish", nickname = "Radish", requiredValue = 940000 }, 
+    { name = "Mapa", nickname = "Mapa", requiredValue = 1410000 }, 
+    { name = "Vegetable (Saya Saga)", nickname = "Super Vegetable", requiredValue = 2232500 },
+    { name = "Lord Sloog", nickname = "Lord Sloog", requiredValue = 3290000 },
+    { name = "Citizen", nickname = "Ancient Saya", requiredValue = 4112500 }, 
+    { name = "Chilly", nickname = "Chilly", requiredValue = 5875000 }, 
+    { name = "No. 17", nickname = "No. 17", requiredValue = 17625000 },
+    { name = "Perfect Atom", nickname = "Perfect Atom", requiredValue = 35250000 },
+    { name = "Z Broccoli", nickname = "Z Broccoli", requiredValue = 88125000 },
     { name = "Super Boo", nickname = "Super Boo", requiredValue = 150000000 },
     { name = "Kakata(SSJ)", nickname = "Kakata(SSJ)", requiredValue = 300000000 }, 
     { name = "Vills (1%)", nickname = "Vills (1%)", requiredValue = 500000000 }, 
+    { name = "Omega Shenlong", nickname = "Omega Shenlong", requiredValue = 750000000000 },
     { name = "Gold Chilly", nickname = "Gold Chilly", requiredValue = 750000000 },
     { name = "Merged Zamas", nickname = "Merged Zamas", requiredValue = 1000000000 },
     { name = "Broccoli", nickname = "Broccoli", requiredValue = 1500000000 }
   },
 
   ["Vills Planet"] = {
-{ name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 5000000000 },
+    { name = "Jiran The Gray", nickname = "Jiran The Gray", requiredValue = 5000000000 },
     { name = "Vegetable (Ultra Ego)", nickname = "Vegetable (Ultra Ego)", requiredValue = 8500000000 },
     { name = "Black Chilly", nickname = "Black Chilly", requiredValue = 15000000000 },
     { name = "Vills (True God of Destruction)", nickname = "Vills (True God of Destruction)", requiredValue = 30000000000 },
@@ -35,6 +36,9 @@ return {
     { name = "Ego Instinct Kakata (Buu absorbed)", nickname = "Ego Instinct Kakata (Buu absorbed)", requiredValue = 1500000000000 },
     { name = "Wukong Seraphim", nickname = "Wukong Seraphim", requiredValue = 4500000000000 },
     { name = "Seraphim of Destruction Vegetable", nickname = "Seraphim of Destruction Vegetable", requiredValue = 8750000000000 },
-    { name = "Ultra Vekuta", nickname = "Ultra Vekuta", requiredValue = 17500000000000 }
+    { name = "Ultra Vekuta", nickname = "Ultra Vekuta", requiredValue = 17500000000000 },
+    { name = "Android 21 (janemba absorbed)", nickname = "Android 21 (janemba absorbed)", requiredValue = 106000000000000 },
+    { name = "Mira (final form)", nickname = "Mira (final form)", requiredValue = 256000000000000 },
+    { name = "Ultra Super Villain Jiran", nickname = "Ultra Super Villain Jiran", requiredValue = 1856000000000000 }
   }
 }
