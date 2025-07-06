@@ -7,7 +7,7 @@ return {
     { name = "Kid Nohag", nickname = "Kid Nohag", requiredValue = 352500 }, 
     { name = "Radish", nickname = "Radish", requiredValue = 940000 }, 
     { name = "Mapa", nickname = "Mapa", requiredValue = 1410000 }, 
-    { name = "Vegetable (Saya Saga)", nickname = "Super Vegetable", requiredValue = 2232500 },
+    { name = "Vegetable (Saya Saga)", nickname = "Vegetable (Saya Saga)", requiredValue = 2232500 },
     { name = "Lord Sloog", nickname = "Lord Sloog", requiredValue = 3290000 },
     { name = "Citizen", nickname = "Ancient Saya", requiredValue = 4112500 }, 
     { name = "Chilly", nickname = "Chilly", requiredValue = 5875000 }, 
