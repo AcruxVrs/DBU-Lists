@@ -14,7 +14,7 @@ return {
     { name = "No. 17", nickname = "No. 17", requiredValue = 3750000 },
     { name = "Perfect Atom", nickname = "Perfect Atom", requiredValue = 7500000 },
     { name = "Z Broccoli", nickname = "Z Broccoli", requiredValue = 18750000 },
-    { name = "Super Boo", nickname = "Super Boo", requiredValue = 37500000 },
+    { name = "Super Boo", nickname = "Kid Boo", requiredValue = 37500000 },
     { name = "Kakata(SSJ)", nickname = "Kakata(SSJ)", requiredValue = 75000000 }, 
     { name = "Vills (1%)", nickname = "Vills (1%)", requiredValue = 125000000 }, 
     { name = "Gold Chilly", nickname = "Gold Chilly", requiredValue = 187500000 },
