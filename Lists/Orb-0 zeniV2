@@ -36,5 +36,8 @@ return {
     { name = "Wukong Seraphim", nickname = "Wukong Seraphim", requiredValue = 1125000000000 },
     { name = "Seraphim of Destruction Vegetable", nickname = "Seraphim of Destruction Vegetable", requiredValue = 2187500000000 },
     { name = "Ultra Vekuta", nickname = "Ultra Vekuta", requiredValue = 4375000000000 }
+    { name = "Android 21 (janemba absorbed)", nickname = "Android 21 (janemba absorbed)", requiredValue = 27000000000000 },
+    { name = "Mira (final form)", nickname = "Mira (final form)", requiredValue = 64000000000000 },
+    { name = "Ultra Super Villain Jiran", nickname = "Ultra Super Villain Jiran", requiredValue = 464000000000000 }
   }
 }
