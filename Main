@@ -2,8 +2,8 @@ return
 {
  {name = "Updated Default", author = "Orbital", version = "v1.5", reb = "All Rebs", type = "Reb/Stat", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/newdefault"},
   --{name = "Default", author = "Orbital", version = "v1.5", reb = "All Rebs", type = "Reb/Stat", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Default"},
-  {name = "idk", author = "Orbital", version = "v1.5", reb = "probably high", type = "Reb", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Orb-0%20zeni"},
-  {name = "Minimum stats", author = "Orbital", version = "v1.5", reb = "26k +", type = "Reb", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Orb-0%20zeniV2"},
+  --{name = "idk", author = "Orbital", version = "v1.5", reb = "probably high", type = "Reb", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Orb-0%20zeni"},
+ -- {name = "Minimum stats", author = "Orbital", version = "v1.5", reb = "26k +", type = "Reb", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Orb-0%20zeniV2"},
   --{name = "Goku Black Farm", author = "Orbital", version = "v1.5", reb = "All Rebs", type = "Stat", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Goku-Black"},
   --{name = "Reb Farm", author = "Op_Mizu", version = "v1.5", reb = "12k+ Rebs", type = "Reb", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Mizu1-12k"},--"https://pastebin.com/raw/9xiFXhLN"},
   --{name = "Reb Farm", author = "Op_Mizu", version = "v1.5", reb = "3k Rebs", type = "Reb", list = "https://raw.githubusercontent.com/AcruxVrs/DBU-Lists/refs/heads/main/Lists/Mizu2-3k"},
