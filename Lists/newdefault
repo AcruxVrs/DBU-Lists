@@ -20,7 +20,7 @@ return {
   ["Vills Planet"] = {
    
     { name = "Vegetable (GoD in-training)", nickname = "Vegetable (GoD in-training)", requiredValue = 200000001 },
-    { name = "Wukong (Omen)", nickname = "Wukong (Omen)", requiredValue = 210000001 },
+    { name = "Wukong (Omen)", nickname = "Wukong (Omen)", requiredValue = 310000001 },
     { name = "Vills (50%)", nickname = "Vills (50%)", requiredValue = 600000001 },
     { name = "Vis (20%)", nickname = "Vis (20%)", requiredValue = 1200000000 },
     { name = "Vegetable (LBSSJ4)", nickname = "Vegetable (LBSSJ4)", requiredValue = 2000000000 },
