@@ -14,7 +14,7 @@ return {
     { name = "SSJ2 Wukong", nickname = "SSJ2 Wukong", requiredValue = 7000001 },
     { name = "SSJB Wukong", nickname = "SSJB Wukong", requiredValue = 10000001 },
     { name = "Broccoli", nickname = "Broccoli", requiredValue = 30500001 },
- { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = math.huge },
+ { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 100000000 },
   },
 
   ["Vills Planet"] = {
