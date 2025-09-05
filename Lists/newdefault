@@ -9,16 +9,15 @@ return {
     { name = "Citizen", nickname = "Evil Saya", requiredValue = 300001 },
     { name = "Top X Fighter", nickname = "X Fighter Master", requiredValue = 400001 },
     { name = "Super Vegetable", nickname = "Super Vegetable", requiredValue = 750001 },
-{ name = "Chilly", nickname = "Chilly", requiredValue = 1000001 },
+    { name = "Chilly", nickname = "Chilly", requiredValue = 1000001 },
     { name = "Perfect Atom", nickname = "Perfect Atom", requiredValue = 2000001 },
     { name = "SSJ2 Wukong", nickname = "SSJ2 Wukong", requiredValue = 7000001 },
     { name = "SSJB Wukong", nickname = "SSJB Wukong", requiredValue = 10000001 },
     { name = "Broccoli", nickname = "Broccoli", requiredValue = 30500001 },
- { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 100000000 },
+    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 100000000 },
   },
 
   ["Vills Planet"] = {
-   
     { name = "Vegetable (GoD in-training)", nickname = "Vegetable (GoD in-training)", requiredValue = 200000001 },
     { name = "Wukong (Omen)", nickname = "Wukong (Omen)", requiredValue = 310000001 },
     { name = "Vills (50%)", nickname = "Vills (50%)", requiredValue = 600000001 },
@@ -28,7 +27,13 @@ return {
     { name = "Vekuta (LBSSJ4)", nickname = "Vekuta (LBSSJ4)", requiredValue = 4500000000 },
     { name = "Wukong Rose", nickname = "Wukong Rose", requiredValue = 7500000000 },
     { name = "Vekuta (SSJBUI)", nickname = "Vekuta (SSJBUI)", requiredValue = 9700000000 },
- { name = "Wukong (MUI)", nickname = "Wukong (MUI)", requiredValue = 18750000000 },
- { name = "Nohag (Beast)", nickname = "Nohag (Beast)", requiredValue = 23750000000 }
+    { name = "Wukong (MUI)", nickname = "Wukong (MUI)", requiredValue = 18750000000 },
+    { name = "Nohag (Beast)", nickname = "Nohag (Beast)", requiredValue = 23750000000 },
+  },
+
+  ["T.O.P"] = {
+    { name = "Piclow (Base)", nickname = "Piclow", requiredValue = 32000000000 },
+    { name = "Caulla (Base)", nickname = "Caulla", requiredValue = 41000000000 },
+    { name = "Nohag (Potential Awoken)", nickname = "Nohag (Potential Awoken)", requiredValue = 53000000000 },
   }
 }
