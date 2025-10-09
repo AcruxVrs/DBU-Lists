@@ -27,7 +27,7 @@ return {
 
 ["Namek"] = {
   { name = "Cui", nickname = "Cui", requiredValue = 8000000 },
-}
+},
 
   ["Vills Planet"] = {
     { name = "Vegetable (GoD in-training)", nickname = "Vegetable (GoD in-training)", requiredValue = 850000000 },
