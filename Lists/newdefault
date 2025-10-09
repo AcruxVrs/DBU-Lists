@@ -25,6 +25,10 @@ return {
     { name = "SSJBK Wukong", nickname = "SSJBK Wukong", requiredValue = 780000000 },
   },
 
+["Namek"] = {
+  { name = "Cui", nickname = "Cui", requiredValue = 8000000 },
+}
+
   ["Vills Planet"] = {
     { name = "Vegetable (GoD in-training)", nickname = "Vegetable (GoD in-training)", requiredValue = 850000000 },
     { name = "Wukong (Omen)", nickname = "Wukong (Omen)", requiredValue = 1450000000 },
