@@ -17,6 +17,10 @@ return {
     { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 250000000 },
   },
 
+["Namek"] = {
+  { name = "Zarbon", nickname = "Zarbon", requiredValue = 8000000 },
+},
+
     ["T.O.P"] = {
     { name = "Piclow (Base)", nickname = "Piclow", requiredValue = 320000000 },
     { name = "Caulla (Base)", nickname = "Caulla", requiredValue = 410000000 },
@@ -25,9 +29,7 @@ return {
     { name = "SSJBK Wukong", nickname = "SSJBK Wukong", requiredValue = 780000000 },
   },
 
-["Namek"] = {
-  { name = "Cui", nickname = "Cui", requiredValue = 8000000 },
-},
+
 
   ["Vills Planet"] = {
     { name = "Vegetable (GoD in-training)", nickname = "Vegetable (GoD in-training)", requiredValue = 850000000 },
