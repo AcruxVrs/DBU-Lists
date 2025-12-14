@@ -2,8 +2,21 @@ return
 {
   ["Earth"] = 
   {
-    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 60000000},
-    { name = "Wukong", nickname = "Oozaru", requiredValue = 50000000000 },
-    { name = "Wukong Black", nickname = "Wukong Black", requiredValue = 50000000001, questless = true}
+  { name = "X Fighter Trainer", nickname = "X Fighter", requiredValue = 0 },
+    { name = "Klirin", nickname = "Klirin", requiredValue = 25000 },
+    { name = "Kid Nohag", nickname = "Kid Nohag", requiredValue = 50000 },
+    { name = "Turtle Student", nickname = "Turtle Student", requiredValue = 90000 },
+    { name = "Radish", nickname = "Radish", requiredValue = 120000 },
+    { name = "Mapa", nickname = "Mapa", requiredValue = 250000 },
+    { name = "Citizen", nickname = "Evil Saya", requiredValue = 420000 },
+    { name = "Top X Fighter", nickname = "X Fighter Master", requiredValue = 550000 },
+    { name = "Super Vegetable", nickname = "Super Vegetable", requiredValue = 750000 },
+    { name = "Chilly", nickname = "Chilly", requiredValue = 47000000 },
+    { name = "Perfect Atom", nickname = "Perfect Atom", requiredValue = 53500000 },
+    { name = "SSJ2 Wukong", nickname = "SSJ2 Wukong", requiredValue = 62000000 },
+    { name = "SSJB Wukong", nickname = "SSJB Wukong", requiredValue = 80000000 },
+    { name = "Broccoli", nickname = "Broccoli", requiredValue = 120000000 },
+    { name = "SSJG Kakata", nickname = "SSJG Kakata", requiredValue = 250000000 },
+    { name = "Christmas Wukong", nickname = "Christmas Wukong", requiredValue = 50000000001, questless = true}
   }
 }
